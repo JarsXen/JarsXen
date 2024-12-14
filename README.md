@@ -1,24 +1,24 @@
-Yo yo yo, kode warriors! 👋 I'm a high school ninja from SMA Negeri 95 Jakarta, currently rocking the 11th grade. 🚀 Dreaming big to become the ultimate programmer and developer in this digital jungle!
+# 💫 About Me:
+Suka Angkasa <br>Aquarius <br>Front End Web<br>Siswa SMAN 95 JAKARTA
 
-💻 My Vibe:
 
-Code by day, dream by night. 😴💻
-Passionate about turning coffee into code and dreams into reality.
-Constantly leveling up my skills and embracing the coding adventures.
-🎓 Future Campus Explorer:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jrsxen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FAJAR Irwansah) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@star8jr) 
 
-Eyeing that code-master degree at UGM. 🚀
-Dreaming of conquering the tech world with the knowledge gained from the legendary UGM campus.
-🌟 Current Quests:
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JarsXen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JarsXen&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JarsXen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Learning the art of programming spells.
-Crafting epic projects that will leave a mark in the coding universe.
-🛌 Hobbies:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JarsXen&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-Master of the art of sleep. 😴💤
-Exploring the dream world for coding inspirations.
-Join me on this epic coding journey, and let's turn dreams into lines of code that shape the future! 🚀✨
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JarsXen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Hit me up for a code duel or just to chat about the coding dreams! 💬👩‍💻
+---
+[![](https://visitcount.itsvg.in/api?id=JarsXen&icon=5&color=0)](https://visitcount.itsvg.in)
 
-🚀 Happy Coding!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
